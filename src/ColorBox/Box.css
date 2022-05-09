@@ -1,0 +1,18 @@
+*{
+    margin:15px;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+    .color-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    
+  
+    
+  
+  
+  }
